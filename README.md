@@ -78,4 +78,8 @@ When I'm not debugging Tensor shape mismatches:
 
 ---
 
+### 📈 GitHub Stats
+
 ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRINCE2-AI&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/PRINCE2-AI/PRINCE2-AI/raw/output/github-contribution-grid-snake-dark.svg)
