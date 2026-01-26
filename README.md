@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Prince! 👋
 
 ### 🚀 Aspiring AI Engineer | Building Production-Grade RAG Systems
