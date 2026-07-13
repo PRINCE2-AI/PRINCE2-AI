@@ -1,85 +1,57 @@
-# Hi there, I'm Prince! 👋
+<div align="center">
 
-### 🚀 Aspiring AI Engineer | "Learn by Doing" Practitioner
+# Prince Maurya
 
-I am a builder at heart, transitioning from Deep Learning fundamentals to creating production-grade LLM applications. I don't just train models; I engineer reliable systems around them.
+**Applied AI / LLM Engineer**
 
----
+Building reliable RAG systems, tool-using agents, and evaluation pipelines.
 
-### 👨‍💻 About Me
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C)](https://langchain-ai.github.io/langgraph/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Applied%20AI%20Roles-2ea44f)](https://github.com/PRINCE2-AI)
 
-- **📍 Location:** India
-- **💼 Current Focus:** AI Engineering Fellow @ **Maven (AI Makerspace)**
-- **🎓 Education:**
-  - **AI Engineering Bootcamp** (Cohort 5 - Recommended by ByteByteGo)
-  - **Self-Taught Deep Learning Researcher** (PyTorch & Transformers)
-  - **B.Tech (Electrical Engineering)**
-- **🏢 Affiliation:** Independent AI Researcher
+</div>
 
----
+## About
 
-### 🧠 Fields of Interest
+I build production-minded AI systems with Python, LangGraph, LangChain, FastAPI, OpenAI, Anthropic, and local models. My work focuses on retrieval, agent reliability, evaluation, observability, and cost-aware execution.
 
-I love exploring the intersection of Math and Engineering:
-* **Generative AI & LLMs** (The core focus)
-* **RAG Systems** (Retrieval Augmented Generation)
-* **Autonomous Agents** (LangChain)
-* **Deep Learning** (Computer Vision & NLP)
-* **System Design** (Scalable AI Architectures)
-* **AI Reliability** (Evals & Testing)
+I am currently an AI Engineering Fellow at Maven (AI Makerspace) and am open to Applied AI / LLM Engineer opportunities and focused open-source collaboration.
 
----
+## Featured Work
 
-### 🛠️ Technical Background
+| Project | What it does | Engineering signals |
+| --- | --- | --- |
+| [OpenAI AutoData](https://github.com/PRINCE2-AI/openai-autodata) | Generates hard research QA data through challenger, solver, and judge agents | Persistent budget guard, fail-closed validation, auditable outputs, offline tests, CI |
+| [DevMind](https://github.com/PRINCE2-AI/devmind) | Terminal-native coding agent built with Python, LangGraph, and Claude | Six built-in tools, sessions, metrics, plugins, cross-platform support, 156 tests, CI |
 
-My journey isn't just about tutorials; it's about building:
-* **RAG Pipeline Engineer:** Built end-to-end chat systems using LangChain & Vector DBs.
-* **PyTorch Developer:** Implemented Transformers & CNNs from scratch.
-* **Backend Engineering:** Containerizing AI apps with **Docker** & **FastAPI**.
-* **Optimization Specialist:** Applied advanced retrieval strategies (Re-ranking/Hybrid Search).
+## Current Focus
 
----
+- Agentic workflows with measurable quality gates
+- RAG systems, retrieval quality, and grounded generation
+- Tool-using agents with observability and cost controls
+- AI evaluation, reliability, and security boundaries
+- Python APIs and local-model integration
 
-### 📚 Currently Learning
+## Selected Projects
 
-I am currently upskilling in:
-- [x] **Advanced RAG:** (Jason Liu's Methodologies)
-- [ ] **AI Evals:** (Measuring Hallucinations with Ragas/Parlance)
-- [ ] **Agentic Workflows:** (Building Multi-Agent Systems)
+- [Local RAG with Ollama and ChromaDB](https://github.com/PRINCE2-AI/local-rag-ollama-chromadb): private PDF question answering with local inference and embeddings.
+- [AI Reddit Brand Monitor](https://github.com/PRINCE2-AI/ai-reddit-brand-monitor): local sentiment, topic, urgency, and feedback analysis for Reddit mentions.
+- [LangGraph Ollama Chatbot](https://github.com/PRINCE2-AI/langgraph-ollama-chatbot): stateful local chat with SQLite checkpoints and token streaming.
+- [Agno Basics](https://github.com/PRINCE2-AI/agno-basics): practical examples covering tools, memory, RAG, teams, and agent workflows.
 
----
+## Tech Stack
 
-### 🎯 2026 Goals
+`Python` `LangGraph` `LangChain` `FastAPI` `OpenAI API` `Anthropic API` `Ollama` `ChromaDB` `PyTorch` `Docker` `SQLite` `Streamlit`
 
-- 🚀 **Build & Ship:** Deploy 5+ Production-Ready AI Applications.
-- 🤝 **Open Source:** Contribute to LangChain or similar AI repositories.
-- 📝 **Share:** Write technical blogs about my "Learn by Doing" journey.
-- 🧠 **Master:** Complete the transition from "Student" to "Senior AI Engineer".
+## Working Principles
+
+- Build the smallest reliable system that proves the idea.
+- Test failure paths, not only happy paths.
+- Make cost, state, and model behavior visible.
+- Keep claims aligned with reproducible code and results.
 
 ---
 
-### ⚡ Hobbies
-
-When I'm not debugging Tensor shape mismatches:
-- 🤖 Exploring new AI Tools
-- 📚 Reading Tech Blogs (ByteByteGo, Jason Liu)
-- 🎮 Gaming / Cricket
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRINCE2-AI&show_icons=true&theme=radical)
-
-![Snake animation](https://github.com/PRINCE2-AI/PRINCE2-AI/raw/output/github-contribution-grid-snake-dark.svg)
+Based in India. The strongest repositories are pinned below for a quick technical review.
