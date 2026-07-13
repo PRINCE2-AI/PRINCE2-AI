@@ -9,7 +9,9 @@ Building reliable RAG systems, tool-using agents, and evaluation pipelines.
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C)](https://langchain-ai.github.io/langgraph/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Applied%20AI%20Roles-2ea44f)](https://github.com/PRINCE2-AI)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Applied%20AI%20Roles-2ea44f)](https://www.linkedin.com/in/prince-maurya-llm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-maurya-llm)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:princemaurya647@gmail.com)
 
 </div>
 
@@ -17,7 +19,15 @@ Building reliable RAG systems, tool-using agents, and evaluation pipelines.
 
 I build production-minded AI systems with Python, LangGraph, LangChain, FastAPI, OpenAI, Anthropic, and local models. My work focuses on retrieval, agent reliability, evaluation, observability, and cost-aware execution.
 
-I am currently an AI Engineering Fellow at Maven (AI Makerspace) and am open to Applied AI / LLM Engineer opportunities and focused open-source collaboration.
+I am a 2026 B.Tech graduate and AI Engineering Fellow at Maven (AI Makerspace), open to Applied AI / LLM Engineer opportunities with Indian and international AI teams.
+
+## Quick Evidence
+
+- Built four end-to-end LLM applications across agents, RAG, local inference, and evaluation.
+- Engineered DevMind with six security-aware tools, persistent sessions, runtime metrics, plugins, CI, and 156 tests.
+- Built OpenAI AutoData with persistent budget controls, fail-closed validation, auditable outputs, and offline test coverage.
+- Completed Andrew Ng's five-course Deep Learning Specialization and continue studying production RAG and AI evaluation.
+- Based in India and open to remote, hybrid, or on-site Applied AI / LLM roles.
 
 ## Featured Work
 
@@ -51,6 +61,12 @@ I am currently an AI Engineering Fellow at Maven (AI Makerspace) and am open to 
 - Test failure paths, not only happy paths.
 - Make cost, state, and model behavior visible.
 - Keep claims aligned with reproducible code and results.
+
+## Contact & Collaboration
+
+[LinkedIn](https://www.linkedin.com/in/prince-maurya-llm) | [Email](mailto:princemaurya647@gmail.com) | [GitHub](https://github.com/PRINCE2-AI)
+
+I am open to Applied AI / LLM roles and focused open-source collaboration. If you find a project useful, follow the profile for upcoming builds or star the repository you want to revisit. Technical feedback is always welcome.
 
 ---
 
