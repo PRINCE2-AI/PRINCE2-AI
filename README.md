@@ -32,12 +32,15 @@ I am a 2026 B.Tech graduate and AI Engineering Fellow at Maven (AI Makerspace), 
 ## Featured Work
 
 | Project | What it does | Engineering signals |
-| --- | --- | --- |
+|---|---|---|
+| [DevMind](https://github.com/PRINCE2-AI/devmind) | Terminal-native AI coding agent built with Python, LangGraph, and Claude | Six built-in tools, persistent sessions, runtime metrics, plugins, cross-platform support, 156 tests, CI |
 | [OpenAI AutoData](https://github.com/PRINCE2-AI/openai-autodata) | Generates hard research QA data through challenger, solver, and judge agents | Persistent budget guard, fail-closed validation, auditable outputs, offline tests, CI |
-| [DevMind](https://github.com/PRINCE2-AI/devmind) | Terminal-native coding agent built with Python, LangGraph, and Claude | Six built-in tools, sessions, metrics, plugins, cross-platform support, 156 tests, CI |
+| [TrustDI Agentic RAG](https://github.com/PRINCE2-AI/trustdi-agentic-rag) | Agentic RAG system for trustworthy enterprise data integration and schema matching | Adaptive routing, evidence-backed decisions, OpenAI API explanations, FastAPI, Streamlit, CI |
+| [Corrective Agentic RAG Assistant](https://github.com/PRINCE2-AI/corrective-agentic-rag-assistant) | Adaptive CRAG assistant that detects retrieval failure and corrects noisy context | Query router, corrective retrieval actions, hierarchical retrieval, RAG metrics, CI |
+| [MemoryOS Agent](https://github.com/PRINCE2-AI/memoryos-agent) | MemGPT-inspired long-term memory agent with OpenAI API support | Memory lifecycle controls, selective forgetting, SQLite store, Streamlit dashboard, CI |
+| [Adaptive RAG CAG Project](https://github.com/PRINCE2-AI/Adaptive-RAG-CAG-Project) | Adaptive RAG and Cache-Augmented Generation demo for retrieval workflows | Streamlit app, retrieval strategy comparison, local demos, test coverage |
 
 ## Current Focus
-
 - Agentic workflows with measurable quality gates
 - RAG systems, retrieval quality, and grounded generation
 - Tool-using agents with observability and cost controls
