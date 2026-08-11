@@ -2,9 +2,7 @@
 
 # Prince Maurya
 
-**Applied AI / LLM Engineer**
-
-Building evaluated RAG systems, tool-using agents, and production-minded AI workflows.
+**Applied AI / LLM Engineer building evaluated agent systems, RAG pipelines, and production AI tooling.**
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C)](https://langchain-ai.github.io/langgraph/)
