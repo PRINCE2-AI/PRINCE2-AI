@@ -6,7 +6,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C)](https://langchain-ai.github.io/langgraph/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![RAG](https://img.shields.io/badge/RAG-Evaluation%20%26%20Retrieval-6f42c1)](https://github.com/PRINCE2-AI?tab=repositories)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-Tool%20Use%20%26%20Memory-0A66C2)](https://github.com/PRINCE2-AI?tab=repositories)
 [![OpenAI API](https://img.shields.io/badge/OpenAI-API-000000?logo=openai&logoColor=white)](https://platform.openai.com/docs)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Applied%20AI%20Roles-2ea44f)](https://www.linkedin.com/in/prince-maurya-llm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-maurya-llm)
@@ -16,29 +17,39 @@
 
 ## About
 
-I build production-minded AI systems with Python, LangGraph, LangChain, FastAPI, OpenAI, Anthropic, Streamlit, SQLite, and vector search. My work focuses on retrieval reliability, agent memory, evaluation, observability, privacy boundaries, and cost-aware execution.
+I build production-minded AI systems with Python, LangGraph, LangChain, OpenAI, Anthropic, Streamlit, SQLite, vector search, and API backends. My work focuses on retrieval reliability, agent memory, evaluation, observability, privacy boundaries, tool safety, and cost-aware execution.
 
 I am a 2026 B.Tech graduate and AI Engineering Fellow at Maven (AI Makerspace), open to Applied AI / LLM Engineer roles with Indian and international AI teams.
 
 ## Quick Evidence
 
-- Built recruiter-ready AI systems across coding agents, RAG, data generation, privacy, memory, and context engineering.
+- Built a live MCP agent-security demo with GitHub Pages, CI, policy evaluation, tool-risk scoring, redaction, and OpenRouter LLM explanations.
 - Engineered DevMind with six security-aware tools, persistent sessions, runtime metrics, plugin support, CI, and 156 tests.
-- Built ContextOps Agent with typed memory, plan persistence, context compression, privacy review, evaluation metrics, and observed CI success.
+- Built ContextOps Agent with typed memory, plan persistence, context compression, privacy review, measurable evals, and observed CI success.
 - Built OpenAI AutoData with challenger/solver/judge agents, persistent budget controls, fail-closed validation, auditable outputs, 13 regression tests, and CI.
-- Built research-backed RAG systems with corrective retrieval, adaptive routing, citation grounding, and RAG evaluation metrics.
+- Built research-backed RAG systems with corrective retrieval, adaptive routing, citation grounding, precision/recall/F1, and RAG evaluation metrics.
 - Completed Andrew Ng's five-course Deep Learning Specialization and continue studying production RAG, agent evaluation, and context engineering.
+
+## Live Proof
+
+| Proof | Link |
+|---|---|
+| MCP Sentinel Lab live demo | [prince2-ai.github.io/mcp-sentinel-lab](https://prince2-ai.github.io/mcp-sentinel-lab/) |
+| MCP Sentinel Lab repository | [github.com/PRINCE2-AI/mcp-sentinel-lab](https://github.com/PRINCE2-AI/mcp-sentinel-lab) |
+| Latest MCP Sentinel CI run | [GitHub Actions](https://github.com/PRINCE2-AI/mcp-sentinel-lab/actions/runs/31568911228) |
+| Latest MCP Sentinel Pages deploy | [GitHub Pages deploy](https://github.com/PRINCE2-AI/mcp-sentinel-lab/actions/runs/31568911230) |
 
 ## Featured Work
 
 | Project | What it does | Engineering signals |
 |---|---|---|
+| [MCP Sentinel Lab](https://github.com/PRINCE2-AI/mcp-sentinel-lab) | Runtime security gateway and evaluation bench for MCP/tool-using AI agents | Live demo, policy engine, risk scoring, redaction, OpenRouter explanations, CI, GitHub Pages |
+| [EvoCode Scientist](https://github.com/PRINCE2-AI/evocode-scientist) | AlphaEvolve-inspired coding agent that evolves and evaluates candidate solutions | Evolution loop, benchmark scoring, sandboxed execution, lineage tracking, Streamlit/API surface |
 | [DevMind](https://github.com/PRINCE2-AI/devmind) | Terminal-native AI coding agent built with Python, LangGraph, and Claude | Six built-in tools, persistent sessions, runtime metrics, plugins, cross-platform support, 156 tests, CI |
-| [ContextOps Agent](https://github.com/PRINCE2-AI/contextops-agent) | Context-engineering layer for long-horizon agents with typed memory, compression, and privacy review | Plan persistence, memory graph reconstruction, privacy firewall, token-savings metrics, FastAPI, Streamlit, CI |
-| [Secure RepoPilot](https://github.com/PRINCE2-AI/secure-repopilot) | Issue-to-PR coding agent with baseline verification, safety controls, and privacy auditing | Reproducer, minimal patching, command guardrails, leakage audit, SWE-style judge, FastAPI, Streamlit, CI |
+| [ContextOps Agent](https://github.com/PRINCE2-AI/contextops-agent) | Context-engineering layer for long-horizon agents with typed memory, compression, and privacy review | Plan persistence, memory graph reconstruction, privacy firewall, token-savings metrics, API, dashboard, CI |
+| [Secure RepoPilot](https://github.com/PRINCE2-AI/secure-repopilot) | Issue-to-PR coding agent with baseline verification, safety controls, and privacy auditing | Reproducer, minimal patching, command guardrails, leakage audit, SWE-style judge, API, dashboard, CI |
+| [TrustDI Agentic RAG](https://github.com/PRINCE2-AI/trustdi-agentic-rag) | Agentic RAG system for trustworthy enterprise data integration and schema matching | Adaptive routing, evidence-backed decisions, OpenAI explanations, precision/recall/F1 evals, API, dashboard, CI |
 | [OpenAI AutoData](https://github.com/PRINCE2-AI/openai-autodata) | Generates hard research QA data through challenger, solver, and judge agents | Persistent budget guard, fail-closed validation, auditable outputs, 13 regression tests, CI |
-| [Corrective Agentic RAG Assistant](https://github.com/PRINCE2-AI/corrective-agentic-rag-assistant) | Adaptive CRAG assistant that detects retrieval failure and corrects noisy context | Query router, corrective retrieval actions, hierarchical retrieval, RAG metrics, CI |
-| [TrustDI Agentic RAG](https://github.com/PRINCE2-AI/trustdi-agentic-rag) | Agentic RAG system for trustworthy enterprise data integration and schema matching | Adaptive routing, evidence-backed decisions, OpenAI explanations, precision/recall/F1 evals, FastAPI, Streamlit, CI |
 
 ## Current Focus
 
@@ -50,6 +61,7 @@ I am a 2026 B.Tech graduate and AI Engineering Fellow at Maven (AI Makerspace), 
 
 ## Selected Projects
 
+- [Corrective Agentic RAG Assistant](https://github.com/PRINCE2-AI/corrective-agentic-rag-assistant): Adaptive CRAG assistant with query routing, corrective retrieval actions, hierarchical retrieval, web fallback, and RAG metrics.
 - [MemoryOS Agent](https://github.com/PRINCE2-AI/memoryos-agent): MemGPT-inspired long-term memory agent with OpenAI API support, SQLite memory, lifecycle controls, and Streamlit dashboard.
 - [Adaptive RAG CAG Project](https://github.com/PRINCE2-AI/Adaptive-RAG-CAG-Project): adaptive RAG and cache-augmented generation demo for retrieval workflows.
 - [Local RAG with Ollama and ChromaDB](https://github.com/PRINCE2-AI/local-rag-ollama-chromadb): private PDF question answering with local inference and embeddings.
@@ -57,7 +69,7 @@ I am a 2026 B.Tech graduate and AI Engineering Fellow at Maven (AI Makerspace), 
 
 ## Tech Stack
 
-`Python` `LangGraph` `LangChain` `FastAPI` `OpenAI API` `Anthropic API` `Streamlit` `ChromaDB` `SQLite` `PyTorch` `Docker` `GitHub Actions` `RAGAS-style evals`
+`Python` `LangGraph` `LangChain` `OpenAI API` `Anthropic API` `RAG` `Vector Search` `Streamlit` `FastAPI` `SQLite` `PyTorch` `Docker` `GitHub Actions` `RAGAS-style evals`
 
 ## Working Principles
 
@@ -71,8 +83,8 @@ I am a 2026 B.Tech graduate and AI Engineering Fellow at Maven (AI Makerspace), 
 
 [LinkedIn](https://www.linkedin.com/in/prince-maurya-llm) | [Email](mailto:princemaurya647@gmail.com) | [GitHub](https://github.com/PRINCE2-AI)
 
-I am open to Applied AI / LLM roles and focused open-source collaboration. If you find a project useful, follow the profile for upcoming builds or star the repository you want to revisit. Technical feedback is welcome.
+I am open to Applied AI / LLM roles and focused open-source collaboration. Technical feedback is welcome.
 
 ---
 
-Based in India. The strongest repositories are pinned below for a quick technical review.
+Best repositories to pin for recruiter review: MCP Sentinel Lab, EvoCode Scientist, DevMind, ContextOps Agent, Secure RepoPilot, and TrustDI Agentic RAG.
