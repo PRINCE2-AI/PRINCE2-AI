@@ -23,6 +23,7 @@ I am a 2026 B.Tech graduate and AI Engineering Fellow at Maven (AI Makerspace), 
 
 ## Quick Evidence
 
+- Built Agent Reliability OS with trace collection, runtime tool-risk policy, secret redaction, baseline-vs-protected benchmarks, CI, and a live GitHub Pages proof demo.
 - Built a live MCP agent-security demo with GitHub Pages, CI, policy evaluation, tool-risk scoring, redaction, and OpenRouter LLM explanations.
 - Engineered DevMind with six security-aware tools, persistent sessions, runtime metrics, plugin support, CI, and 156 tests.
 - Built ContextOps Agent with typed memory, plan persistence, context compression, privacy review, measurable evals, and observed CI success.
@@ -34,6 +35,10 @@ I am a 2026 B.Tech graduate and AI Engineering Fellow at Maven (AI Makerspace), 
 
 | Proof | Link |
 |---|---|
+| Agent Reliability OS live demo | [prince2-ai.github.io/agent-reliability-os](https://prince2-ai.github.io/agent-reliability-os/) |
+| Agent Reliability OS repository | [github.com/PRINCE2-AI/agent-reliability-os](https://github.com/PRINCE2-AI/agent-reliability-os) |
+| Agent Reliability OS CI run | [GitHub Actions](https://github.com/PRINCE2-AI/agent-reliability-os/actions/runs/31780652312) |
+| Agent Reliability OS Pages deploy | [GitHub Pages deploy](https://github.com/PRINCE2-AI/agent-reliability-os/actions/runs/31781202418) |
 | MCP Sentinel Lab live demo | [prince2-ai.github.io/mcp-sentinel-lab](https://prince2-ai.github.io/mcp-sentinel-lab/) |
 | MCP Sentinel Lab repository | [github.com/PRINCE2-AI/mcp-sentinel-lab](https://github.com/PRINCE2-AI/mcp-sentinel-lab) |
 | Latest MCP Sentinel CI run | [GitHub Actions](https://github.com/PRINCE2-AI/mcp-sentinel-lab/actions/runs/31568911228) |
@@ -43,8 +48,8 @@ I am a 2026 B.Tech graduate and AI Engineering Fellow at Maven (AI Makerspace), 
 
 | Project | What it does | Engineering signals |
 |---|---|---|
+| [Agent Reliability OS](https://github.com/PRINCE2-AI/agent-reliability-os) | Observability, evaluation, and runtime policy control plane for tool-using LLM agents | Live demo, trace store, policy engine, secret redaction, baseline-vs-protected evals, API, dashboard, CI, GitHub Pages |
 | [MCP Sentinel Lab](https://github.com/PRINCE2-AI/mcp-sentinel-lab) | Runtime security gateway and evaluation bench for MCP/tool-using AI agents | Live demo, policy engine, risk scoring, redaction, OpenRouter explanations, CI, GitHub Pages |
-| [EvoCode Scientist](https://github.com/PRINCE2-AI/evocode-scientist) | AlphaEvolve-inspired coding agent that evolves and evaluates candidate solutions | Evolution loop, benchmark scoring, sandboxed execution, lineage tracking, Streamlit/API surface |
 | [DevMind](https://github.com/PRINCE2-AI/devmind) | Terminal-native AI coding agent built with Python, LangGraph, and Claude | Six built-in tools, persistent sessions, runtime metrics, plugins, cross-platform support, 156 tests, CI |
 | [ContextOps Agent](https://github.com/PRINCE2-AI/contextops-agent) | Context-engineering layer for long-horizon agents with typed memory, compression, and privacy review | Plan persistence, memory graph reconstruction, privacy firewall, token-savings metrics, API, dashboard, CI |
 | [Secure RepoPilot](https://github.com/PRINCE2-AI/secure-repopilot) | Issue-to-PR coding agent with baseline verification, safety controls, and privacy auditing | Reproducer, minimal patching, command guardrails, leakage audit, SWE-style judge, API, dashboard, CI |
@@ -87,4 +92,4 @@ I am open to Applied AI / LLM roles and focused open-source collaboration. Techn
 
 ---
 
-Best repositories to pin for recruiter review: MCP Sentinel Lab, EvoCode Scientist, DevMind, ContextOps Agent, Secure RepoPilot, and TrustDI Agentic RAG.
+Best repositories to pin for recruiter review: Agent Reliability OS, MCP Sentinel Lab, DevMind, ContextOps Agent, Secure RepoPilot, and TrustDI Agentic RAG.
