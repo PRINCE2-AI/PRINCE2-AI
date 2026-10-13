@@ -81,7 +81,6 @@ Agentic RAG system for trustworthy enterprise data integration and schema matchi
 - [Corrective Agentic RAG Assistant](https://github.com/PRINCE2-AI/corrective-agentic-rag-assistant): Adaptive CRAG assistant with query routing, corrective retrieval, hierarchical context, web fallback, and RAG metrics.
 - [MemoryOS Agent](https://github.com/PRINCE2-AI/memoryos-agent): Long-term memory agent with OpenAI API support, SQLite memory, lifecycle controls, and a Streamlit dashboard.
 - [arXiv Digest Agent](https://github.com/PRINCE2-AI/arxiv-digest-agent): Stateful research-paper digest and grounded QA workflow using retrieval, ranking, PDF parsing, embeddings, and FAISS.
-- [SKXYWTF Observability Platform](https://github.com/PRINCE2-AI/skxywtf-observability-platform): AI tracing, evaluation, cost/latency tracking, regression alerts, FastAPI, Supabase, and Streamlit dashboard.
 
 ## Technical Skills
 
