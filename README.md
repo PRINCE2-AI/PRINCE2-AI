@@ -30,7 +30,7 @@ I am open to Applied AI Engineer, LLM Engineer, AI Engineer, and AI Evaluation r
 
 Connects a language model to a focused set of workspace tools, keeps every action inside a path jail, records durable sessions, and turns safety decisions into readable code.
 
-- **Scale:** 4,100+ Python LOC, 102 offline tests, 0 runtime dependencies, 6 model providers, 4 interface languages
+- **Scale:** 2,500+ source LOC, 1,478 test LOC, 102 offline tests, 0 runtime dependencies, 6 model providers, 4 interface languages
 - **Safety:** deterministic deny list, path jail, approval flow, secret redaction, optional semantic review
 - **Proof:** [Live site](https://argus-harness-oa3gk1gz2f0.qoder.website) · [Docs](https://argus-harness-oa3gk1gz2f0.qoder.website/docs.html) · [CI](https://github.com/PRINCE2-AI/Argus/actions)
 
