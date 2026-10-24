@@ -80,7 +80,6 @@ AlphaEvolve-inspired agent using LLM/local mutations, sandboxed execution, deter
 | [OpenAI AutoData](https://github.com/PRINCE2-AI/openai-autodata) | Budget-aware challenger/solver/judge pipeline for hard research QA with fail-closed validation |
 | [Secure RepoPilot](https://github.com/PRINCE2-AI/secure-repopilot) | Issue-to-PR coding agent with baseline verification, command guardrails, and privacy auditing |
 | [TrustDI Agentic RAG](https://github.com/PRINCE2-AI/trustdi-agentic-rag) | Agentic RAG for enterprise schema matching with evidence-backed decisions and RAG metrics |
-| [Bolo](https://github.com/PRINCE2-AI/bolo) | Voice-first Hindi PayPal back office for small sellers |
 | [WishTrip Shillong](https://github.com/PRINCE2-AI/wishtrip-shillong) | Deterministic, explainable trip planner with a live demo |
 | [Atomity Workload Forecasting](https://github.com/PRINCE2-AI/atomity-cloud-workload-forecasting) | Leakage-safe Azure VM workload forecasting with 24-step predictions and tests |
 | [SHL Grammar Scoring](https://github.com/PRINCE2-AI/shl-grammar-scoring-engine) | Grammar scoring of spoken English from audio (Kaggle SHL assessment) |
