@@ -13,6 +13,7 @@ I build reliable AI systems with Python, LangGraph, RAG, tool-using agents, eval
 [![Open to Work](https://img.shields.io/badge/Open%20to-Applied%20AI%20Roles-2ea44f)](https://www.linkedin.com/in/prince-maurya-llm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-maurya-llm)
 [![X](https://img.shields.io/badge/X-@veyrapage-000000?logo=x&logoColor=white)](https://x.com/veyrapage)
+[![Substack](https://img.shields.io/badge/Substack-The%20Reliable%20Agent-FF6719?logo=substack&logoColor=white)](https://thereliableagent.substack.com/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:princemaurya647@gmail.com)
 
 </div>
