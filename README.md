@@ -31,7 +31,7 @@ I am open to Applied AI Engineer, LLM Engineer, AI Engineer, and AI Evaluation r
 
 Connects a language model to a focused set of workspace tools, keeps every action inside a path jail, records durable sessions, and turns safety decisions into readable code.
 
-- **Scale:** 2,500+ source LOC, 1,478 test LOC, 102 offline tests, 0 runtime dependencies, 6 model providers, 4 interface languages
+- **Scale:** 2,500+ source LOC, 1,547 test LOC, 105 offline tests, 0 runtime dependencies, 6 model providers, 4 interface languages
 - **Safety:** deterministic deny list, path jail, approval flow, secret redaction, optional semantic review
 - **Proof:** [Live site](https://argus-harness-oa3gk1gz2f0.qoder.website) · [Docs](https://argus-harness-oa3gk1gz2f0.qoder.website/docs.html) · [CI](https://github.com/PRINCE2-AI/Argus/actions)
 
@@ -40,14 +40,14 @@ Connects a language model to a focused set of workspace tools, keeps every actio
 Multi-turn GRPO trainer that teaches an LLM to interleave reasoning with Wikipedia search (BM25 over 21M passages), with retrieved-token loss masking and a KL penalty.
 
 - **Results:** GSM8K 32.4% → 47.9%; search-agent exact match 0% → 13.0% (NQ) and 19.6% (HotpotQA)
-- **Engineering:** 172 CPU tests, RAG baselines, pass^k reliability analysis, silent-RL-bug fixes
+- **Engineering:** 180 CPU tests, RAG baselines, pass^k reliability analysis, silent-RL-bug fixes
 - **Proof:** [Repository](https://github.com/PRINCE2-AI/nano-agentrl) · [CI](https://github.com/PRINCE2-AI/nano-agentrl/actions)
 
 ### [MCP Sentinel Lab](https://github.com/PRINCE2-AI/mcp-sentinel-lab) — runtime security gateway for MCP agents
 
 Manifest scanning, tool pinning, policy enforcement, privacy guards, and CI-backed evaluation for tool-using agents.
 
-- **Results:** bundled attack success 100% → 0%; decision traces showed 100% leakage blocking
+- **Results (7 bundled demo cases):** attack success 100% → 0% against an allow-all baseline; these are deterministic regression checks, not a general security benchmark
 - **Controls:** workspace escape, credential exfiltration, prompt injection, memory poisoning, cross-tool leakage
 - **Proof:** [Live demo](https://prince2-ai.github.io/mcp-sentinel-lab/) · [Repository](https://github.com/PRINCE2-AI/mcp-sentinel-lab)
 
@@ -62,14 +62,14 @@ Trace collection, runtime tool-risk policies, secret redaction, and baseline-vs-
 
 LangGraph and Anthropic coding agent with streaming, six security-hardened tools, plugins, and atomic persistent sessions.
 
-- **Engineering:** 156 offline tests covering security, p50/p95/p99 metrics, rate limiting, retries, and session persistence
+- **Engineering:** 170 offline tests covering security, p50/p95/p99 metrics, rate limiting, retries, and session persistence
 - **Proof:** [Repository](https://github.com/PRINCE2-AI/devmind) · [CI](https://github.com/PRINCE2-AI/devmind/actions)
 
 ### [EvoCode Scientist](https://github.com/PRINCE2-AI/evocode-scientist) — evolutionary coding agent
 
 AlphaEvolve-inspired agent using LLM/local mutations, sandboxed execution, deterministic scoring, and population selection.
 
-- **Results:** 0.9311 on bin packing across 7 candidates
+- **Results:** demo bin packing passes all 7 candidates and scores about 0.96 (observed 0.958–0.965; the small drift comes from the measured runtime penalty)
 - **Engineering:** AST validation, subprocess timeouts, SQLite lineage, leaderboards for TSP, bin packing, compression, and knapsack
 - **Proof:** [Repository](https://github.com/PRINCE2-AI/evocode-scientist) · [CI](https://github.com/PRINCE2-AI/evocode-scientist/actions)
 
