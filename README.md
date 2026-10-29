@@ -26,6 +26,8 @@ I am open to Applied AI Engineer, LLM Engineer, AI Engineer, and AI Evaluation r
 
 **Currently building [Argus](https://github.com/PRINCE2-AI/Argus)** — a small, inspectable agent harness with zero runtime dependencies.
 
+**Open source:** [jontb/FiniteFree #39](https://github.com/jontb/FiniteFree/pull/39) merged upstream (closes [#35](https://github.com/jontb/FiniteFree/issues/35)); open fixes under review in sphinx, pip, and tox.
+
 ## Featured Projects
 
 ### [Argus](https://github.com/PRINCE2-AI/Argus) — inspectable agent harness
