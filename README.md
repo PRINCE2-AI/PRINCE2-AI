@@ -26,7 +26,7 @@ I am open to Applied AI Engineer, LLM Engineer, AI Engineer, and AI Evaluation r
 
 **Currently building [Argus](https://github.com/PRINCE2-AI/Argus)** — a small, inspectable agent harness with zero runtime dependencies.
 
-**Open source:** [jontb/FiniteFree #39](https://github.com/jontb/FiniteFree/pull/39) merged upstream (closes [#35](https://github.com/jontb/FiniteFree/issues/35)); open fixes under review in sphinx, pip, and tox.
+**Open source:** merged upstream in [tox #4215](https://github.com/tox-dev/tox/pull/4215), [logfire #2696](https://github.com/pydantic/logfire/pull/2696), and [FiniteFree #39](https://github.com/jontb/FiniteFree/pull/39) (closes [#35](https://github.com/jontb/FiniteFree/issues/35)); open fixes under review in sphinx and pip.
 
 ## Featured Projects
 
@@ -90,7 +90,8 @@ AlphaEvolve-inspired agent using LLM/local mutations, sandboxed execution, deter
 
 ## Open Source Contributions
 
-- [tox-dev/tox #4215](https://github.com/tox-dev/tox/pull/4215) — merged: report an unparsable `pylock.toml` instead of an internal error
+- [pydantic/logfire #2696](https://github.com/pydantic/logfire/pull/2696) — merged: stop `logfire read-tokens create --save` from crashing on Windows, where `os.fchmod` does not exist
+- [tox-dev/tox #4215](https://github.com/tox-dev/tox/pull/4215) — merged: report an invalid `pylock.toml` (malformed TOML or non-UTF-8 bytes) with the filename and parse error instead of an internal traceback
 - [FiniteFree #39](https://github.com/jontb/FiniteFree/pull/39) — merged: runnable PyPI quick example and checker regression tests
 - [paypal/agent-toolkit #111](https://github.com/paypal/agent-toolkit/pull/111) — open: migrate the Python OpenAI chatbot example to the Responses API (fixes #93)
 - [paypal/agent-toolkit #112](https://github.com/paypal/agent-toolkit/pull/112) — open: fix Python example setup docs and environment variable names
