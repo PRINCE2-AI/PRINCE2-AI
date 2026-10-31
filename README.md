@@ -90,6 +90,7 @@ AlphaEvolve-inspired agent using LLM/local mutations, sandboxed execution, deter
 
 ## Open Source Contributions
 
+- [tox-dev/tox #4215](https://github.com/tox-dev/tox/pull/4215) — merged: report an unparsable `pylock.toml` instead of an internal error
 - [FiniteFree #39](https://github.com/jontb/FiniteFree/pull/39) — merged: runnable PyPI quick example and checker regression tests
 - [paypal/agent-toolkit #111](https://github.com/paypal/agent-toolkit/pull/111) — open: migrate the Python OpenAI chatbot example to the Responses API (fixes #93)
 - [paypal/agent-toolkit #112](https://github.com/paypal/agent-toolkit/pull/112) — open: fix Python example setup docs and environment variable names
